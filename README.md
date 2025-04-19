@@ -1,6 +1,5 @@
-# VisionMate - AI Assistant App for Blind People | Google Gemini API Developer Competition Submission #buildwithgemini
+# VisionMate 
 
-[![VisionMate App Preview](image/visionmate-app.png)](https://youtu.be/cRTjUSgXhKY?si=1D-FlGa3eUcPhOYR)
 
 Click the image above to watch a demo of the VisionMate App on YouTube.
 
@@ -63,7 +62,7 @@ Click the image above to watch a demo of the VisionMate App on YouTube.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Coding-Meet/VisionMate.git
+   git clone https://github.com/swastik28/VisionMate.git
 2. Open in the latest version of Android Studio or IntelliJ IDEA.
 3. Before running the project, obtain an API key from [Google AI](https://ai.google.dev) to communicate with the Gemini API.
 4. Add a `local.properties` file to the project root.
